@@ -74,6 +74,9 @@
       "relation": "oneToMany",
       "target": "api::comment.comment",
       "mappedBy": "users_permissions_user"
+    },
+    "description": {
+      "type": "text"
     }
   }
 }
