@@ -55,3 +55,11 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+
+#### .env
+HOST=0.0.0.0
+PORT=1337
+APP_KEYS=lTKW4gl+fi4erxfkb2BH5Q==,2fwZ1OuxbdNuJtRJ4hdYow==,mPDIDHvZ2zi8jqRRfdAgzw==,Aqgk6VvuL8VEeCYqE2gAqg==
+API_TOKEN_SALT=5A2UVI/4NKewXcCzh/XkxQ==
+ADMIN_JWT_SECRET= JSRom0cO4dFokvjvrYEgcQ==
+JWT_SECRET=2aBENwiYo2zExqYKdx576Q==
